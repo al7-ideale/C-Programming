@@ -1,0 +1,2 @@
+This a txt file.
+'txt' stands for text.

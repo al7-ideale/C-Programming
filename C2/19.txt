@@ -1,0 +1,3 @@
+My name is Aadarsh Dhami.
+I like C programming.
+I like VS Code.
